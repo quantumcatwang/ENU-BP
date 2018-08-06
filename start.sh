@@ -1,6 +1,8 @@
 #!/bin/bash
-BINDIR=/usr/local/bin
-DATADIR=/root/mainnode
+BINDIR=<enunode path>
+#for root: BINDIR=/usr/local/bin
+DATADIR=<BP path>
+#for root: DATADIR=/root/mainnode
 
 if [ "$1" = "bootstrap" ]
 then
