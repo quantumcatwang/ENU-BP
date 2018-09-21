@@ -1,6 +1,5 @@
 #!/bin/bash
-DATADIR="<bp path>"
-#for root: DATADIR="/root/mainnode"
+DATADIR=/root/mainnode
 
 if [ -f $DATADIR"/eosd.pid" ]; then
 pid=`cat $DATADIR"/eosd.pid"`
