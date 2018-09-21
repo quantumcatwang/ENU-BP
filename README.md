@@ -1,32 +1,4 @@
-# ENUAvengers -- A Community Driven Enumivo Testnet
 
-ENUAvengers is an Enumivo Testnet.
-
-| Hero        | Producer Name           | Status  |
-| ------------- |:-------------:| -----:|
-|Stan Lee|stanlee|Claimed|
-|Iron Man|ironman|Claimed|
-|Captain America|captamerica|Claimed|
-|Thor|thor|Claimed|
-|Doctor Strange|drstrange|Claimed|
-|Spider Man|spiderman|Claimed|
-|Ant Man|antman|Claimed|
-|Black Widow|blackwidow|Available|
-|Hulk|hulk|Claimed|
-|Hawk Eye|hawkeye|Claimed|
-|Quick Silver|quicksilver|Available|
-|Vision|vision|Claimed|
-|War Machine|warmachine|Claimed|
-|Falcon|falcon|Claimed|
-|Black Panther|blackpanther|Claimed|
-|Star Lord|starlord|Claimed|
-|Captain Marvel|captmarvel|Claimed|
-|Loki|loki|Claimed|
-|Thanos|thanos|Claimed|
-|Gamora|gamora|Available|
-|Groot|groot|Claimed|
-
-## Node Setup Guidance
 ### Build & install node components
 make sure your repository is on the newest commit of [enumivo branch](https://github.com/enumivo/enumivo.git), then build and install.
 
