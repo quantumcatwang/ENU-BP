@@ -9,7 +9,7 @@
         "email":"admin@enubi.org",
         "branding":{
             "logo_256":"http://enubi.org/images/logo.png",
-            "logo_1024":"", 
+            "logo_1024":"http://enubi.org/images/logo.png", 
             "logo_svg":""
         },
         "location": {
